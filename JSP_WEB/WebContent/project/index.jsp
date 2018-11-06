@@ -73,7 +73,7 @@
 	</div>
 	
 	<hr>
-	<h5 align="center"> Made in TEST WEB</h5>
+	<h5 align="center">TEST WEB</h5>
 	
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap.js"></script>
